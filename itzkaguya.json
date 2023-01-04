@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1230764400,
-      "filename": "ota-package.zip",
-      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
-      "romtype": "UNOFFICIAL",
-      "size": 314572800,
-      "url": "https://segawa.suzunetwork.workers.dev/segawa-builds/ota-package.zip",
+      "datetime": 1672795922,
+      "filename": "lineage-17.1-20230104-EXPERIMENTAL-ota-a10s.zip",
+      "id": "b96adb1c4db872b16c8e11451774ff1b",
+      "romtype": "EXPERIMENTAL",
+      "size": 434110464,
+      "url": "https://segawa.suzunetwork.workers.dev/segawa-builds/lineage-17.1-20230104-EXPERIMENTAL-ota-a10s.zip",
       "version": "17.1"
     }
   ]
