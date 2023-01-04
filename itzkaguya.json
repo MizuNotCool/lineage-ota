@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1672795922,
+      "datetime": 1672796528,
       "filename": "lineage-17.1-20230104-EXPERIMENTAL-ota-a10s.zip",
-      "id": "b96adb1c4db872b16c8e11451774ff1b",
+      "id": "1ad9f84448471c071f1edfd5d410ff0a",
       "romtype": "EXPERIMENTAL",
-      "size": 433818298,
+      "size": 433666378,
       "url": "https://segawa.suzunetwork.workers.dev/segawa-builds/lineage-17.1-20230104-EXPERIMENTAL-ota-a10s.zip",
       "version": "17.1"
     }
